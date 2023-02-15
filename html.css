@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+main{
+    height: 100vh;
+    background: black url(img/html-reels.jpg) center center no-repeat fixed;
+    background-size: cover;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.275);
+    display: flex;
+    font-size: 30px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav h3{
+    color: rgba(255, 255, 255, 0.71);
+    margin-left: 20px;
+}
